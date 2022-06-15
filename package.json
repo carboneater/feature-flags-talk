@@ -1,0 +1,28 @@
+{
+  "name": "feature-flags-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carboneater/feature-flags-talk.git"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/carboneater/feature-flags-talk/issues"
+  },
+  "homepage": "https://github.com/carboneater/feature-flags-talk#readme",
+  "devDependencies": {
+    "@types/koa": "^2.13.4",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "koa": "^2.13.4",
+    "unleash-client": "^3.14.1"
+  }
+}
